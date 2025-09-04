@@ -57,6 +57,8 @@ Using a network filter connected to an industrial outlet,
 2 bare wires are inserted into the filter (dangerous, take precautions, do not touch the cables together,
 hold them by the insulated parts, first connect the neutral, then the phase, disconnect in the reverse order
 
+![Final result](9.jpg)
+
 
 
 
